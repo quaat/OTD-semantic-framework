@@ -2,7 +2,7 @@ Flask==0.12.2
 Flask-WTF==0.14.2
 Flask-RESTful==0.3.6
 gunicorn==19.7.1
-Jinja2==2.9.6
+Jinja2==2.11.3
 jsonschema==2.6.0
 pandas==0.21.0
 pathlib2==2.3.0
